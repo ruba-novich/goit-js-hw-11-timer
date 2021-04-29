@@ -1,0 +1,1 @@
+.timer{width:700px;margin:50px auto}.field,.timer{display:-webkit-flex;display:flex}.field{width:25%;font-size:35px;-webkit-flex-wrap:wrap;flex-wrap:wrap;-webkit-justify-content:center;justify-content:center;text-align:center;background-color:#101010;border-radius:5%;margin-left:10px;color:red}.value{width:100%}
